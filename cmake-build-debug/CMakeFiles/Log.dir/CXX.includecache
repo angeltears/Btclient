@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/onter/project/hub/Btclient/Log.cc
+Log.h
+/home/onter/project/hub/Btclient/Log.h
+
+/home/onter/project/hub/Btclient/Log.h
+muduo/base/LogFile.h
+-
+muduo/base/Logging.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/BTclient.dir/main.cc.o CMakeFiles/BTclient.dir/Log.cc.o  -o BTclient -lmuduo_base -lpthread 
